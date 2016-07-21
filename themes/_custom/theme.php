@@ -15,8 +15,8 @@ namespace MyNamespace\MyProject;
  * You should have received a copy of the GNU General Public License
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
-use Fisharebest\Webtrees\Menu;
-use Fisharebest\Webtrees\Theme\WebtreesTheme;
+use togasamosir\tarombo\Menu;
+use togasamosir\tarombo\Theme\WebtreesTheme;
 
 /**
  * Class CustomTheme - This is a template showing how to create a custom theme.
